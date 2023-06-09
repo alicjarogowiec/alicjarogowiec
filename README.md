@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @alicjarogowiec
-- 👀 I’m interested in game development, physics and cosmology
-- 🌱 I’m currently learning Ruby on Rails and game development with Unity
+
 
 
 <!---
